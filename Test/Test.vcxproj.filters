@@ -18,6 +18,63 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="SimpleFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FactoryMethod.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Strategyh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Adapter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocltype.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Template.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Builder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Facade.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Conposite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Proxy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Flyweight.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bridge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Decorator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Memento.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mediator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ChainOfResponsibility.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
